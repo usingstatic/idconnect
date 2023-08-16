@@ -1,7 +1,9 @@
 # id Connect
-Primer about distributed identity management
+Implementing solid identity management 
 
 # Why
+
+The following sections will build to a complete use case, if you want the final version, jump to the source code.
 
 # JWT
 header = {...}
